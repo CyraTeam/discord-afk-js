@@ -34,7 +34,7 @@
   "homepage": "https://github.com/CyraTeam/discord-afk-js#readme",
   "dependencies": {
     "@types/update-notifier": "^6.0.4",
-    "node-fetch": "^2.6.11",
+    "node-fetch": "^3.3.1",
     "update-notifier": "^5.1.0"
   },
   "devDependencies": {
