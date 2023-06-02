@@ -35,7 +35,7 @@
   "dependencies": {
     "@types/update-notifier": "^6.0.4",
     "node-fetch": "^2.6.11",
-    "update-notifier": "^5.1.0"
+    "update-notifier": "^6.0.2"
   },
   "devDependencies": {
     "@discordjs/collection": "^1.5.1",
